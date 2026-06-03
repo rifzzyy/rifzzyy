@@ -47,12 +47,6 @@
 * Continuous Learning
 
 
-
-## 🌐 Languages
-
-English • Tamil • Hindi
-
-
 ## 💬 Connect
 
 rifanayasmin786@gmail.com
