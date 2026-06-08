@@ -30,12 +30,11 @@
 
 
 
-## 📈 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rifzzyy&theme=dark&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=808080" />
+  <img src="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake.svg" />
 </p>
-
 
 
 
