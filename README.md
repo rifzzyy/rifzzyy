@@ -1,24 +1,28 @@
 <h1 align="center">Hi, I'm Rifana Yasmin 🤍👋🏻</h1>
 
 <p align="center">
-  Frontend Developer • Data Analyst • Creative Builder
+  Python Developer • Web Developer • Problem Solver
 </p>
 
 <p align="center">
-  Building responsive web experiences and turning data into meaningful insights.
+  Building practical Python applications, automation tools, and modern web solutions while continuously expanding my software development skills.
+</p>  
+
+<p align="center">
+  Passionate about writing clean, efficient, and maintainable code. I enjoy solving real-world problems with Python and creating user-friendly web applications. Currently focused on strengthening my development skills through hands-on projects and continuous learning.
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=7A7A7A&center=true&vCenter=true&width=500&lines=Frontend+Developer;Data+Analytics+Enthusiast;Creative+Builder;Always+Learning" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=7A7A7A&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Analytics+Enthusiast;Web+Developer;Always+Learning" /> </p>
 
 
 
 ## 👩‍💻 About Me
 
 * 🎓 B.E. Computer Science & Engineering
-* 💻 Passionate about Frontend Development
-* 📊 Skilled in Data Analysis & Visualization
-* 🌱 Continuously learning and building
-* ✨ Creating clean, accessible digital experiences
+* 💻 Passionate about Python Development
+* 🌐 Interested in Web Development
+* 📚 Continuously learning new technologies and best practices
+* 🚀 Building projects to improve problem-solving and development skills
 
 
 
@@ -40,9 +44,12 @@
 
 ## 🎯 Current Focus
 
-* Responsive Web Development
-* Modern UI/UX Design
-* Data Analytics & Visualization
+* Python Programming
+* Django & Flask Development
+* Web Application Development
+* API Development
+* Database Management
+* Git & GitHub
 * Continuous Learning
 
 
