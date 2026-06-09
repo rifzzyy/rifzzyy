@@ -1,19 +1,33 @@
 <h1 align="center">Hi, I'm Rifana Yasmin 🤍👋🏻</h1>
 
 <p align="center">
-  Python Developer • Web Developer • Problem Solver
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=700&lines=Python+Developer;Django+Learner;Data+Analytics+Enthusiast;Web+Developer;Building+Real-World+Projects;Always+Learning+Something+New" />
 </p>
-
-<p align="center">
-  Building practical Python applications, automation tools, and modern web solutions while continuously expanding my software development skills.
-</p>  
 
 <p align="center">
   Passionate about writing clean, efficient, and maintainable code. I enjoy solving real-world problems with Python and creating user-friendly web applications. Currently focused on strengthening my development skills through hands-on projects and continuous learning.
 </p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1000&color=7A7A7A&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Analytics+Enthusiast;Web+Developer;Always+Learning" /> </p>
 
+```python
+class RifanaYasmin:
+    education = "B.E Computer Science & Engineering"
+
+    interests = [
+        "Python",
+        "Django",
+        "Web Development",
+        "Problem Solving"
+    ]
+
+    currently_learning = [
+        "Advanced Python",
+        "Django",
+        "Software Development"
+    ]
+
+    motto = "Keep Building. Keep Learning."
+```
 
 
 ## 👩‍💻 About Me
