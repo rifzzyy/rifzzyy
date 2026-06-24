@@ -48,7 +48,10 @@ class RifanaYasmin:
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"
+   <img src="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+   <img src="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake-light.svg" />
 </p>
 
 ## 🎯 Current Focus
@@ -67,18 +70,4 @@ class RifanaYasmin:
 > Design. Develop. Analyze.
 <p align="center">
   <i>Design with purpose. Build with passion. Learn without limits.</i>
-</p>
-
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/rifzzyy/rifzzyy/output/github-contribution-grid-snake.svg">
-  </picture>
 </p>
